@@ -1,6 +1,1 @@
-hi love you
-<<<<<<< HEAD
-happy life
-=======
-live long life
->>>>>>> origin/master
+i love india
